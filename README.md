@@ -1,0 +1,1 @@
+Esta aplicação permite avaliar filmes e é uma amostra de meus conhecimentos como desenvolvedor. Este projeto foi desenvolvido com Spring Boot e React, além de outras tecnologias para o banco de dados e implantação em nuvem, e está disponível no link: https://ezmovies.netlify.app/
